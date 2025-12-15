@@ -20,15 +20,17 @@
 
 <p>
   <img align="left"
+       width="36%"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=nglong-uet&show_icons=true&locale=en&layout=compact&theme=tokyonight"
        alt="nglong-uet" />
 </p>
 
 <p>
-  &nbsp;
   <img align="center"
+       width="48%"
        src="https://github-readme-stats.vercel.app/api?username=nglong-uet&show_icons=true&locale=en&theme=tokyonight"
        alt="nglong-uet" />
 </p>
+
 
 
