@@ -55,17 +55,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
-
 <p>
   <img align="left"
-       width="36%"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=nglong-uet&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-       alt="nglong-uet" />
-</p>
-
+       width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nglong-uet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
 <p>
   <img align="center"
-       width="48%"
-       src="https://github-readme-stats.vercel.app/api?username=nglong-uet&show_icons=true&locale=en&theme=tokyonight"
+       width="45%"
+       src="https://github-readme-stats.vercel.app/api?username=nglong-uet&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
        alt="nglong-uet" />
+</p>
 </p>
